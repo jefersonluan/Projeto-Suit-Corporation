@@ -6,3 +6,4 @@
 Na pasta da unidade 1 se encontra a breve definição do projeto, os digramas ou artefatos iniciais e o documento de requisitos.
 --
 Na pasta da unidade 2 se encontra o artigo, as atividades que vão ser realizadas para a verificação e validação do sistema em questão e os digramas ou artefatos iniciais e o documento de requisitos atualizados.
+--
